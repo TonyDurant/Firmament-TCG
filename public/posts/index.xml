@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Firmament-TCG</title><link>http://localhost:1313/posts/</link><description>Recent content in Posts on Firmament-TCG</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 09 Jun 2024 00:58:28 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Test Post</title><link>http://localhost:1313/posts/test-post/</link><pubDate>Sun, 09 Jun 2024 00:58:28 +0000</pubDate><guid>http://localhost:1313/posts/test-post/</guid><description/></item><item><title>Rules</title><link>http://localhost:1313/posts/rules/</link><pubDate>Sun, 09 Jun 2024 00:41:10 +0000</pubDate><guid>http://localhost:1313/posts/rules/</guid><description>Quick Rules for Firmament: Divine Forgottenness # Objective: # Defeat your opponent&amp;rsquo;s hero by reducing their HP to zero using a combination of strategic attacks, powerful spells, and summoned creatures.
-Game Setup: # Choose Your Hero: Each player selects a hero card and places it in the designated hero zone. Each hero starts with 20 HP. Hero has it’s HP written on the card in the bottom left corner. Create Your Deck: Each player builds a deck of cards, including Attack, Defense, Warrior, and Grimoire Page cards.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Firmament-TCG</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Firmament-TCG</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jun 2024 00:58:28 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>http://localhost:1313/posts/test-post/</link>
+      <pubDate>Sun, 09 Jun 2024 00:58:28 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rules</title>
+      <link>http://localhost:1313/posts/rules/</link>
+      <pubDate>Sun, 09 Jun 2024 00:41:10 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rules/</guid>
+      <description>Quick Rules for Firmament: Divine Forgottenness # Objective: # Defeat your opponent&amp;rsquo;s hero by reducing their HP to zero using a combination of strategic attacks, defenses, and summoned warriors.&#xA;Game Setup: # Choose Your Hero: Each player selects a hero card and places it in the designated hero zone. Each hero starts with 20 HP. Hero has it’s HP written on the card in the bottom left corner. Create Your Deck: Each player builds a deck of cards, including Attack, Defense, Warrior, and Grimoire Page cards.</description>
+    </item>
+  </channel>
+</rss>
