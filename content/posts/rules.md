@@ -19,7 +19,7 @@ Defeat your opponent's hero by reducing their HP to zero using a combination of 
    - Shuffle your deck and draw an initial hand of 7 cards. Randomly decide who goes first.
 
 *Hero Cards*
-![Heroes](/images/hero_cards.png)
+![Heroes](../images/hero_cards.png)
 
 ### Game Zones:
 1. **Hero Zone:** Place your hero card here.
