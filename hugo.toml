@@ -9,6 +9,7 @@ theme = "hugo-book"
   BookComments = false
   BookToC = true
   BookSection = "posts"
+  custom_css = ["css/custom.css"]
   # BookLogo = "logo.png"
 
 # Add menu items for navigation

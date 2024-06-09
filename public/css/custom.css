@@ -1,0 +1,5 @@
+.markdown img {
+    max-width: 100%;
+    height: auto;
+    clip-path: inset(3% 3% 3% 3% round 13px);
+}
