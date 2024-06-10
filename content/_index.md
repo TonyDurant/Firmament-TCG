@@ -5,7 +5,7 @@ draft: false
 ---
 # Firmament: Divine Forgottenness (TCG)
 
-![LOGO](images/LOGO-4.png)
+![LOGO](images/Mural-1.png)
 
 ## What is Firmament?:
 
