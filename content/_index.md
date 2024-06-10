@@ -5,11 +5,13 @@ draft: false
 ---
 # Firmament: Divine Forgottenness (TCG)
 
-![LOGO](images/Mural-1.png)
+![LOGO](images/Mural-Looped.gif)
 
 ## What is Firmament?:
 
 Firmament: Divine Forgottenness is a strategic and immersive Trading Card Game (TCG) set in a richly detailed fantasy world divided by an enigmatic barrier known as the Firmament Divide. This barrier prevents physical crossing (or does it?) and visual observation of the lands beyond it, creating an aura of mystery and intrigue. Players assume the roles of powerful heroes from one of the five distinct nations, each with their unique philosophies, values, and goals.
+
+{{< img src="images/Agnar-Looped.gif" alt="HERO" width="300" radius="15px" >}}
 
 ### Key Features:
 
