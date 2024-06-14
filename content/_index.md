@@ -16,12 +16,11 @@ Firmament: Divine Forgottenness is a strategic and immersive Trading Card Game (
 ### Key Features:
 
 **Unique Nations:**
-
-1. **Erynlor Valeria:** Emphasizes knowledge, preservation, and stability, using crystal energy.
-2. **Anak Nocturna:** Focuses on innovation and resilience, harnessing luminous plants for technological advancements.
-3. **Terra Tartarie:** Values harmony with nature and sustainability, utilizing earth magic to heal and restore.
-4. **Pyrithia Ignis:** Champions strength through conflict, employing flame forging techniques for powerful weaponry.
-5. **Aetheris Ventora:** Promotes unity through collaboration, using aqua constructs to foster peace and adaptability.
+1. **Erynlor Valeria: 🜁 (Air)** — Symbolizes knowledge, preservation, and stability.
+2. **Anak Nocturna: 🜔 (Spirit)** — Represents innovation, ingenuity, and resilience.
+3. **Terra Tartarie: 🜃 (Earth)** — Reflects nature, balance, and sustainability.
+4. **Pyrithia Ignis: 🜂 (Fire)** — Embodies strength, courage, and honor.
+5. **Aetheris Ventora: 🜄 (Water)** — Signifies collaboration, unity, and respect.
 
 **Gameplay Mechanics:**
 
