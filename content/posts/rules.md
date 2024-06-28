@@ -19,7 +19,7 @@ Defeat your opponent's hero by reducing their HP to zero using a combination of 
    - Shuffle your deck and draw an initial hand of 7 cards. Randomly decide who goes first.
 
 *Hero Cards*
-![Heroes](/images/hero_cards.png)
+![Heroes](/images/hero_cards_1.png)
 
 ### Game Zones:
 1. **Hero Zone:** Place your hero card here.
@@ -72,3 +72,71 @@ Defeat your opponent's hero by reducing their HP to zero using a combination of 
 
 ### Winning the Game:
 - The first player to reduce their opponent's hero HP to zero wins the game.
+
+### Combat Phase:
+
+#### Combat Sequence 
+
+1. **Declare Attackers:**
+    - The attacking player declares which warriors will attack by tapping (turning sideways) the chosen warriors.
+    - Attack cards are played directly by the attacking player, representing the hero’s attacks, not the warriors'.
+2. **Play Attack Cards:**
+    - The attacking player can play attack cards from their hand, applying their effects directly.
+    - Attack cards must follow the resource cost requirements and any specific conditions stated on the card.
+3. **Declare Defenders:**
+    - The defending player declares which warriors will block the incoming attacks. Defending warriors are not tapped.
+    - Each attacking warrior can be blocked by any number of defending warriors that are available to defend (i.e., not tapped).
+4. **Play Defense Cards:**
+    - The defending player can play defense cards from their hand, applying their effects directly.
+    - Defense cards must follow the resource cost requirements and any specific conditions stated on the card.
+5. **Resolve Combat:**
+    - Compare the power of the attacking warriors with the power of the blocking warriors.
+    - If an attacking warrior is blocked by multiple defending warriors:
+        - The attacking player decides the order in which the defending warriors will block the attacking warrior.
+        - The attacking warrior deals its damage to the first blocking warrior in the specified order. If the first blocking warrior is destroyed, any remaining damage is dealt to the next blocking warrior, and so on.
+        - Calculate the damage dealt to each blocking warrior based on the attacking warrior's power.
+        - If the blocking warrior’s power is higher than the attacking warrior’s power, the attacking warrior is destroyed and sent to the discard pile.
+        - If the attacking warrior’s power is higher than a blocking warrior’s power, that blocking warrior is destroyed and sent to the discard pile. The process continues with the next blocking warrior.
+        - If both warriors have equal power, both are destroyed and sent to the discard pile.
+    - If an attacking warrior is not blocked, it deals damage directly to the defending player or hero.
+6. **Damage Resolution:**
+    - Apply any additional effects from attack and defense cards that were played during the combat.
+    - Resolve any damage spillover to the defending player or hero as per the card effects and rules.
+7. **End of Combat:**
+    - After resolving all attacks and defenses, discard any used attack and defense cards to the discard pile.
+
+#### Blocking Damage
+
+In the game, defense cards such as a "block X damage" cards are used to reduce the amount of damage an attacking warrior deals to hero. Warrior cards block incoming attacks, no damage spills over to the hero unless specified by a card ability. Understanding how blocking mechanics work is essential for strategic gameplay.
+
+##### Blocking Mechanics:
+
+1. **Blocking with Insufficient Block Value:**
+    - **Scenario:** A 3 power warrior attacks you, and you block with a "block 2 damage" card.
+    - **Outcome:** The "block 2 damage" card absorbs 2 points of damage from the attacking warrior.
+        - **Result:** The remaining 1 point of damage spills over onto the hero.
+    - **Example:**
+        - **Attack Power:** 3
+        - **Block Power:** 2
+        - **Damage to Hero:** 3 (attack) - 2 (block) = 1 damage spills over to the hero.
+        - **Block Value Equal or Higher than Attack:** If the block value is equal to or higher than the attack power, no damage spills over to the hero.
+1. **Blocking with Sufficient Block Value:**
+    - **Scenario:** A 3 power warrior attacks you, and you block with a "block 4 damage" card.
+    - **Outcome:** The "block 4 damage" card absorbs all 3 points of damage from the attacking warrior.
+        - **Result:** No damage spills over onto the hero.
+    - **Example:**
+        - **Attack Power:** 3
+        - **Block Power:** 4
+        - **Damage to Hero:** 3 (attack) - 4 (block) = 0 damage spills over to the hero.
+        - **Block Value Lower than Attack:** If the block value is lower than the attack power, the difference in damage spills over to the hero.
+1. Blocking with Another Warrior:
+	- When a warrior blocks an attacking warrior, the damage does not spill over to the hero unless there is a special condition or modifier written on the card.
+	- **Example:**
+	    - **Scenario:** A 3 power warrior attacks you, and you block with a 2 power warrior.
+	    - **Outcome:** The attacking warrior deals 3 damage to the blocking warrior, resulting in the blocking warrior being destroyed and sent to the discard pile. Cards in the discard pile are placed face up.
+	    - **Result:** The blocking warrior takes 3 damage and, if its health is less than 3, it is destroyed. No damage spills over to the hero unless specified by a card ability.
+	    - **Blocking with Warriors:** When blocking with another warrior, damage does not spill over to the hero unless a card specifies otherwise. If the blocking warrior's power is higher than the attacking warrior's power, the attacking warrior is destroyed. If the warriors have equal power, both warriors are mutually destroyed.
+
+##### Summary:
+
+By using blocking cards effectively, players can reduce incoming damage and protect their hero from attacks. Strategic use of blocking cards based on the attack power they face is crucial for maintaining control over the battlefield and ensuring the hero's survival.
