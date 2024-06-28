@@ -15,31 +15,31 @@ The world of **Firmaterra** is divided by an enigmatic and “impenetrable” ba
 
 ## **Nations of Firmaterra**
 
-1. **Erynlor Valeria**
+1. **Erynlor Valeria (Air - 🜁)**
    - **Philosophy:** Erynlor Valeria embraces the philosophy of **Continuity**. They believe in preserving and continuing traditions and knowledge through meticulous documentation and oral histories.
    - **Values:** Erynlor Valeria cherishes **Knowledge**, **Preservation**, and **Stability**. They place great importance on maintaining records and teaching younger generations the ways of their ancestors.
    - **Goals:** Erynlor Valeria strives to understand the Divine Forgottenness and uncover the mysteries of their past. They aim to maintain societal stability by ensuring that all knowledge, even fragmented, is passed down.
    - **Elements:** Erynlor Valeria harnesses the power of **Crystal Energy** found in ancient ruins. These crystals store information and power their devices.
 
-2. **Anak Nocturna**
+2. **Anak Nocturna (Mercury - ☿)**
    - **Philosophy:** Anak Nocturna follows the philosophy of **Adaptation**. They believe that constant change and flexibility are the keys to survival and progress.
    - **Values:** Anak Nocturna values **Innovation**, **Ingenuity**, and **Resilience**. They pride themselves on their ability to adapt to new challenges and find creative solutions.
    - **Goals:** Anak Nocturna seeks to push the boundaries of technology and exploration. They aim to develop methods to penetrate the Firmament Divide and discover what lies beyond.
    - **Elements:** Anak Nocturna utilizes **Luminous Plants** that glow with a natural luminescence. These plants provide light and energy, fostering an environment of perpetual innovation.
 
-3. **Terra Tartarie**
+3. **Terra Tartarie (Earth - 🜃)**
    - **Philosophy:** Terra Tartarie's philosophy is **Harmony with Nature**. They believe in living in balance with the natural world and respecting its cycles and rhythms.
    - **Values:** Terra Tartarie cherishes **Nature**, **Balance**, and **Sustainability**. They prioritize environmental stewardship and holistic living.
    - **Goals:** Terra Tartarie aims to heal the land and restore ancient ecosystems. They seek to understand and mitigate the effects of the Firmament Divide on their environment.
    - **Elements:** Terra Tartarie harnesses **Earth Magic**, drawing power from the soil and ancient ley lines. This magic allows them to manipulate plants and heal the land.
 
-4. **Pyrithia Ignis**
+4. **Pyrithia Ignis (Fire - 🜂)**
    - **Philosophy:** Pyrithia Ignis embraces the philosophy of **Strength through Conflict**. They believe that challenges and struggles forge strength and resilience.
    - **Values:** Pyrithia Ignis values **Strength**, **Courage**, and **Honor**. They hold warrior traditions in high regard and celebrate feats of bravery.
    - **Goals:** Pyrithia Ignis seeks to build a society that is resilient and prepared for any threat. They aim to uncover the hidden dangers of the ancient ruins and protect their people.
    - **Elements:** Pyrithia Ignis utilizes **Flame Forging**, an ancient technique that infuses weapons and tools with the essence of fire. This grants them unparalleled durability and power.
 
-5. **Aetheris Ventora**
+5. **Aetheris Ventora (Water - 🜄)**
    - **Philosophy:** Aetheris Ventora's philosophy is **Unity through Collaboration**. They believe that bringing together different perspectives and cultures strengthens their society.
    - **Values:** Aetheris Ventora cherishes **Collaboration**, and **Unity**. They promote cultural exchange and mutual respect among their citizens.
    - **Goals:** Aetheris Ventora aims to foster peace and understanding between the nations of Firmaterra. They seek to create alliances and share knowledge to overcome the challenges posed by the Firmament Divide and Divine Forgottenness.
